@@ -1,5 +1,6 @@
 # Stripe Payment Integration Example
 
+
 Este es un ejemplo de integración de pagos con **Stripe** utilizando **Node.js** y **Express**. El objetivo de este proyecto es mostrar cómo crear un proceso de pago simple con Stripe Checkout.
 
 ## Requisitos
