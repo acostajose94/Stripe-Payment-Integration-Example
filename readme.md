@@ -18,3 +18,25 @@ Sigue estos pasos para clonar y ejecutar el proyecto:
 ```bash
 git clone https://github.com/tu-usuario/stripe-payment-example.git
 cd stripe-payment-example
+```
+#
+#
+# Stripe Payment Integration Example
+
+This is a payment integration example using **Stripe** with **Node.js** and **Express**. The goal of this project is to show how to create a simple payment process using Stripe Checkout.
+
+## Requirements
+
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- A [Stripe](https://stripe.com/) account
+- Stripe API test keys
+
+## Installation
+
+Follow these steps to clone and run the project:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/stripe-payment-example.git
+cd stripe-payment-example
